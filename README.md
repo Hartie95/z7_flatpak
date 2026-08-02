@@ -1,4 +1,4 @@
-# Flatpak for the Z7 Launcher (WIP)
+# Flatpak for the [Z7 Launcher](https://github.com/Khysnik/Z7/tree/main/Launcher) (WIP)
 
 ## Usage
 Starting the launcher:
