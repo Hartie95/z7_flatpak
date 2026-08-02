@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Z7 Launcher
+Icon=Z7Launcher
+Exec=Z7Launcher %U
+Comment=A reverse-engineered blaze server for Plants vs Zombies: Garden Warfare 2
+Categories=Game;
+Terminal=false

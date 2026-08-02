@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.khysnik.Z7</id>
+  <metadata_license>MIT</metadata_license>
+  <project_license>LicenseRef-proprietary</project_license>
+  <name>Z7</name>
+  <developer_name>Khysnik</developer_name>
+  <url type="homepage">https://github.com/Khysnik/Z7</url>
+  <summary>Garden Warfare 2 Launcher</summary>
+  <description>
+    <p>A reverse-engineered blaze server for Plants vs Zombies: Garden Warfare 2 </p>
+  </description>
+  <screenshots>
+  </screenshots>
+  <launchable type="desktop-id">com.khysnik.Z7</launchable>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-info">moderate</content_attribute>
+  </content_rating>
+  <releases>
+    <release version="v1.1.0" date="2026-07-17">
+      <url type="details">https://github.com/Khysnik/Z7/releases/tag/v1.1.0</url>
+      <description/>
+    </release>
+  </releases>
+</component>
